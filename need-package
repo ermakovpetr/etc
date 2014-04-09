@@ -1,0 +1,36 @@
+install
+---
+nautilus-open-terminal
+skype
+idea
+python
+ipython
+chrome
+gparted
+gnu octave
+pinta
+terminator
+libre office
+archive manager
+gnome-bluetooth
+sublime
+evince
+filezilla
+pidgin
+thunderbird
+qtransmission
+vlc
+clementine
+curl
+mc
+tig
+git
+htop
+virt-manager
+java
+nano
+
+remove
+---
+gedit
+firefox
