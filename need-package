@@ -31,6 +31,8 @@ java
 nano
 oh my zsh
 gconf-editor
+ssh
+sshfs
 
 remove
 ---
